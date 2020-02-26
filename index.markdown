@@ -35,15 +35,22 @@ title: Data Mining Group @ UIUC
 - [ArabicNER](https://github.com/LiyuanLucasLiu/ArabicNER)
 - [VanillaNER](https://github.com/LiyuanLucasLiu/Vanilla_NER)
 - [LightNER](https://github.com/LiyuanLucasLiu/LightNER)
+- [Multi-BioNER](https://github.com/yuzhimanhua/Multi-BioNER)
 
 ### Relation Extraction
 - [ReHession](https://github.com/LiyuanLucasLiu/ReHession)
 - [ReMine](https://github.com/GentleZhu/ReMine)
 
 
+## Text Classification
+- [WeSTClass](https://github.com/yumeng5/WeSTClass)
+- [WeSHClass](https://github.com/yumeng5/WeSHClass)
+  
+
 # Graph Mining 
 ## Heterogeneous Information Network (HIN) Mining 
 - [Esim](https://github.com/shangjingbo1226/ESim)
+- [AspEm](https://github.com/ysyushi/aspem)
 - [HEER](https://github.com/GentleZhu/HEER)
 
 # Optimization
