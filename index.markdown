@@ -49,7 +49,7 @@ title: Data Mining Group @ UIUC
 
 # Graph Mining 
 ## Heterogeneous Information Network (HIN) Mining 
-- [Esim](https://github.com/shangjingbo1226/ESim)
+- [ESim](https://github.com/shangjingbo1226/ESim)
 - [AspEm](https://github.com/ysyushi/aspem)
 - [HEER](https://github.com/GentleZhu/HEER)
 
