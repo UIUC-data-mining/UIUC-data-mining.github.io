@@ -11,6 +11,7 @@ title: Data Mining Group @ UIUC
 
 - [TaxoGen](https://github.com/franticnerd/taxogen)
 - [HiExpan](https://github.com/mickeystroller/HiExpan)
+- [TaxoRL](https://github.com/morningmoni/TaxoRL)
 - [TaxoExpan](https://github.com/mickeystroller/TaxoExpan)
   
 ## Set Expansion and Synonym Finding 
@@ -45,6 +46,7 @@ title: Data Mining Group @ UIUC
 ## Text Classification
 - [WeSTClass](https://github.com/yumeng5/WeSTClass)
 - [WeSHClass](https://github.com/yumeng5/WeSHClass)
+- [HiLAP](https://github.com/morningmoni/HiLAP)
   
 
 # Graph Mining 
