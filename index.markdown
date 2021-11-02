@@ -29,27 +29,36 @@ _Arabic Named Entity Recognition: What Works and What's Next_ [[PDF](https://acl
 - **(EMNLP 2019) [CrossWeigh](https://github.com/ZihanWangKi/CrossWeigh)**          
 _CrossWeigh: Training Named Entity Tagger from Imperfect Annotations_ [[PDF](https://arxiv.org/pdf/1909.01441.pdf)] [[Code](https://github.com/ZihanWangKi/CrossWeigh)]
 
-- **(EMNLP 2021) [RoSTER]()**
+- **(EMNLP 2021) [RoSTER](https://github.com/yumeng5/RoSTER)**        
 _Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training_ [[PDF](https://arxiv.org/pdf/2109.05003.pdf)] [[Code](https://github.com/yumeng5/RoSTER)]
 
 - **(Other models) [VanillaNER](https://github.com/LiyuanLucasLiu/Vanilla_NER) and [LightNER](https://github.com/LiyuanLucasLiu/LightNER)**
 
-### Relation Extraction
-- [ReHession](https://github.com/LiyuanLucasLiu/ReHession)
-- [ReMine](https://github.com/GentleZhu/ReMine)
+### Relation Extraction (RE) and Open Information Extraction (OpenIE)
+- **(KDD 2017) [MetaPAD](https://github.com/mjiang89/MetaPAD)**         
+_MetaPAD: Meta Patten Discovery from Massive Text Corpora_ [[PDF](https://arxiv.org/pdf/1703.04213.pdf)] [[Code](https://github.com/mjiang89/MetaPAD)]
 
-### Taxonomy Construction
+- **(EMNLP 2017) [ReHession](https://github.com/LiyuanLucasLiu/ReHession)**       
+_Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach_ [[PDF](https://arxiv.org/pdf/1707.00166.pdf)] [[Code](https://github.com/LiyuanLucasLiu/ReHession)]
+
+- **(WSDM 2018) [ReQuest](https://github.com/INK-USC/ReQuest)**       
+_Indirect Supervision for Relation Extraction using Question-Answer Pairs_ [[PDF](https://arxiv.org/pdf/1710.11169.pdf)] [[Code](https://github.com/INK-USC/ReQuest)]
+
+- **(WWW 2018) [REPEL](https://github.com/mnqu/REPEL)**        
+_Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning_ [[PDF](https://arxiv.org/pdf/1711.03226.pdf)] [[Code](https://github.com/mnqu/REPEL)]
+
+- **(WSDM 2019) [ReMine](https://github.com/GentleZhu/ReMine)**       
+_Integrating Local Context and Global Cohesiveness for Open Information Extraction_ [[PDF](https://arxiv.org/pdf/1804.09931.pdf)] [[Code](https://github.com/GentleZhu/ReMine)]
+
+### Set Expansion and Synonym Discovery 
+- [SetExpan](https://github.com/mickeystroller/SetExpan)
+- [SynSetMine](https://github.com/mickeystroller/SynSetMine-pytorch)
+
+### Taxonomy Construction and Taxonomy Expansion
 - [TaxoGen](https://github.com/franticnerd/taxogen)
 - [HiExpan](https://github.com/mickeystroller/HiExpan)
 - [TaxoRL](https://github.com/morningmoni/TaxoRL)
 - [TaxoExpan](https://github.com/mickeystroller/TaxoExpan)
-  
-### Set Expansion and Synonym Finding 
-- [SetExpan](https://github.com/mickeystroller/SetExpan)
-- [SynSetMine](https://github.com/mickeystroller/SynSetMine-pytorch)
-
-### Textual Pattern Mining
-- [MetaPAD](https://github.com/mjiang89/MetaPAD)
 
 ### Text Classification
 - [WeSTClass](https://github.com/yumeng5/WeSTClass)
