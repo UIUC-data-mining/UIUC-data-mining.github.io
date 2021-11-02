@@ -102,7 +102,7 @@ _Text Classification Using Label Names Only: A Language Model Self-Training Appr
 _Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](https://arxiv.org/pdf/2010.13556.pdf)] [[Code](https://github.com/yuzhimanhua/HIMECat)]
 
 - **(WWW 2021) [MATCH](https://github.com/yuzhimanhua/MATCH)**       
-_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](https://arxiv.org/pdf/2102.07349.pdf)] [[Code](https://github.com/yuzhimanhua/MATCH)]
+_MATCH: Metadata-Aware Text Classification in A Large Hierarchy_ [[PDF](https://arxiv.org/pdf/2102.07349.pdf)] [[Code](https://github.com/yuzhimanhua/MATCH)]
 
 - **(WWW 2021) [LTRN](https://github.com/xinyangz/ltrn)**       
 _Minimally Supervised Structure Rich Text Categorization by Learning on Text-Rich Networks_ [[PDF](https://arxiv.org/pdf/2102.11479.pdf)] [[Code](https://github.com/xinyangz/ltrn)]
@@ -110,6 +110,8 @@ _Minimally Supervised Structure Rich Text Categorization by Learning on Text-Ric
 ### Text Embedding
 
 ### Text Summarization
+
+### Event Extraction
 
 ## Graph Mining 
 ### Heterogeneous Information Network (HIN) Mining 
