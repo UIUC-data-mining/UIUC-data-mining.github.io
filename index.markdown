@@ -1,4 +1,5 @@
 ## Text Mining 
+- **[Phrase Mining](phrase.md)**
 
 ### Phrase Mining 
 - **(SIGMOD 2015) [SegPhrase](https://github.com/shangjingbo1226/SegPhrase)**        
