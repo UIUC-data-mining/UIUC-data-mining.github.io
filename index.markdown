@@ -51,14 +51,36 @@ _Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning_ [
 _Integrating Local Context and Global Cohesiveness for Open Information Extraction_ [[PDF](https://arxiv.org/pdf/1804.09931.pdf)] [[Code](https://github.com/GentleZhu/ReMine)]
 
 ### Set Expansion and Synonym Discovery 
-- [SetExpan](https://github.com/mickeystroller/SetExpan)
-- [SynSetMine](https://github.com/mickeystroller/SynSetMine-pytorch)
+- **(ECML-PKDD 2017) [SetExpan](https://github.com/mickeystroller/SetExpan)**       
+_SetExpan: Corpus-Based Set Expansion via Context Feature Selection and Rank Ensemble_ [[PDF](https://arxiv.org/pdf/1910.08192.pdf)] [[Code](https://github.com/mickeystroller/SetExpan)]
 
-### Taxonomy Construction and Taxonomy Expansion
-- [TaxoGen](https://github.com/franticnerd/taxogen)
-- [HiExpan](https://github.com/mickeystroller/HiExpan)
-- [TaxoRL](https://github.com/morningmoni/TaxoRL)
-- [TaxoExpan](https://github.com/mickeystroller/TaxoExpan)
+- **(KDD 2017) [DPE](https://github.com/mnqu/DPE)**       
+_Automatic Synonym Discovery with Knowledge Bases_ [[PDF](https://arxiv.org/pdf/1706.08186.pdf)] [[Code](https://github.com/mnqu/DPE)]
+
+- **(AAAI 2019) [SynSetMine](https://github.com/mickeystroller/SynSetMine-pytorch)**     
+_Mining Entity Synonyms with Efficient Neural Set Generation_ [[PDF](https://arxiv.org/pdf/1811.07032.pdf)] [[Code](https://github.com/mickeystroller/SynSetMine-pytorch)]
+
+- **(ACL 2020) [CGExpan](https://github.com/yzhan238/CGExpan)**        
+_Empower Entity Set Expansion via Language Model Probing_ [[PDF](https://arxiv.org/pdf/2004.13897.pdf)] [[Code](https://github.com/yzhan238/CGExpan)]
+
+### Taxonomy Expansion and Taxonomy Construction 
+- **(KDD 2018) [TaxoGen](https://github.com/franticnerd/taxogen)**      
+_TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_ [[PDF](https://arxiv.org/pdf/1812.09551.pdf)] [[Code](https://github.com/franticnerd/taxogen)]
+
+- **(KDD 2018) [HiExpan](https://github.com/mickeystroller/HiExpan)**       
+_HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion_ [[PDF](https://arxiv.org/pdf/1910.08194.pdf)] [[Code](https://github.com/mickeystroller/HiExpan)]
+
+- **(ACL 2018) [TaxoRL](https://github.com/morningmoni/TaxoRL)**       
+_End-to-End Reinforcement Learning for Automatic Taxonomy Induction_ [[PDF](https://arxiv.org/pdf/1805.04044.pdf)] [[Code](https://github.com/morningmoni/TaxoRL)]
+
+- **(CIKM 2019) [HyperMine](https://github.com/ysyushi/HyperMine)**       
+_Discovering Hypernymy in Text-Rich Heterogeneous Information Network by Exploiting Context Granularity_ [[PDF](https://arxiv.org/pdf/1909.01584.pdf)] [[Code](https://github.com/ysyushi/HyperMine)]
+
+- **(WWW 2020) [TaxoExpan](https://github.com/mickeystroller/TaxoExpan)**        
+_TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network_ [[PDF](https://arxiv.org/pdf/2001.09522.pdf)] [[Code](https://github.com/mickeystroller/TaxoExpan)]
+
+- **(KDD 2020) [CoRel](https://github.com/teapot123/CoRel)**        
+_CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring_ [[PDF](https://arxiv.org/pdf/2010.06714.pdf)] [[Code](https://github.com/teapot123/CoRel)]
 
 ### Text Classification
 - [WeSTClass](https://github.com/yumeng5/WeSTClass)
