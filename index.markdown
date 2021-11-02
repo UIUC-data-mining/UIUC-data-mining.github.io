@@ -1,5 +1,11 @@
 ## Text Mining 
+### Index by Topics
 - **[Phrase Mining](phrase.md)**
+- **[Named Entity Recognition (NER)](ner.md)**
+- **[Relation Extraction (RE) and Open Information Extraction (OpenIE)](re.md)**
+- **[Set Expansion and Synonym Discovery](synonym.md)**
+- **[Taxonomy Expansion and Taxonomy Construction](taxonomy.md)**
+- **[Text Classification](classification.md)**
 
 ### Phrase Mining 
 - **(SIGMOD 2015) [SegPhrase](https://github.com/shangjingbo1226/SegPhrase)**        
