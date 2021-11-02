@@ -1,9 +1,9 @@
 ## Text Mining 
 ### Index by Topics
 - **[Phrase Mining](phrase.md)**
-- **[Named Entity Recognition (NER)](ner.md)**
-- **[Relation Extraction (RE) and Open Information Extraction (OpenIE)](re.md)**
-- **[Set Expansion and Synonym Discovery](synonym.md)**
+- **[Named Entity Recognition (NER)](entity.md)**
+- **[Relation Extraction (RE) and Open Information Extraction (OpenIE)](relation.md)**
+- **[Set Expansion and Synonym Discovery](setexpan.md)**
 - **[Taxonomy Expansion and Taxonomy Construction](taxonomy.md)**
 - **[Text Classification](classification.md)**
 
