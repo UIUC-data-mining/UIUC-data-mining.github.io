@@ -14,6 +14,9 @@ _Minimally Supervised Categorization of Text with Metadata_ [[PDF](https://arxiv
 - **(EMNLP 2020) [LOTClass](https://github.com/yumeng5/LOTClass)**      
 _Text Classification Using Label Names Only: A Language Model Self-Training Approach_ [[PDF](https://arxiv.org/pdf/2010.07245.pdf)] [[Code](https://github.com/yumeng5/LOTClass)]
 
+- **(EMNLP 2020) [JASen](https://github.com/teapot123/JASen)**      
+_Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding_ [[PDF](https://arxiv.org/pdf/2010.06705.pdf)] [[Code](https://github.com/teapot123/JASen)]
+
 - **(WSDM 2021) [HIMECat](https://github.com/yuzhimanhua/HIMECat)**       
 _Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](https://arxiv.org/pdf/2010.13556.pdf)] [[Code](https://github.com/yuzhimanhua/HIMECat)]
 
