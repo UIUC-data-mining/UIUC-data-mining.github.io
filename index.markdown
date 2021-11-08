@@ -1,12 +1,16 @@
-## Text Mining 
 ### Index by Topics
+**Text Mining**
 - **[Phrase Mining](phrase.md)**
 - **[Named Entity Recognition (NER)](entity.md)**
 - **[Relation Extraction (RE) and Open Information Extraction (OpenIE)](relation.md)**
+- **[Event Extraction](event.md)
+- **[Text Embedding](embedding.md)
 - **[Set Expansion and Synonym Discovery](setexpan.md)**
 - **[Taxonomy Expansion and Taxonomy Construction](taxonomy.md)**
 - **[Text Classification](classification.md)**
+- **[Text Summarization and Question Answering](summarization.md)**
 
+## Text Mining
 ### Phrase Mining 
 - **(SIGMOD 2015) [SegPhrase](https://github.com/shangjingbo1226/SegPhrase)**        
 _Mining Quality Phrases from Massive Text Corpora_ [[PDF](https://dl.acm.org/doi/10.1145/2723372.2751523)] [[Code](https://github.com/shangjingbo1226/SegPhrase)]        
@@ -57,6 +61,23 @@ _Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning_ [
 - **(WSDM 2019) [ReMine](https://github.com/GentleZhu/ReMine)**       
 _Integrating Local Context and Global Cohesiveness for Open Information Extraction_ [[PDF](https://arxiv.org/pdf/1804.09931.pdf)] [[Code](https://github.com/GentleZhu/ReMine)]
 
+### Event Extraction
+- **(NAACL-HLT 2021) [Event Argument Extraction](https://github.com/raspberryice/gen-arg)**      
+_Document-Level Event Argument Extraction by Conditional Generation_ [[PDF](https://arxiv.org/pdf/2104.05919.pdf)] [[Code](https://github.com/raspberryice/gen-arg)]
+
+- **(EMNLP 2021) [ETypeClus](https://github.com/jmshen1994/ETypeClus)**      
+_Corpus-based Open-Domain Event Type Induction_ [[PDF](https://arxiv.org/pdf/2109.03322.pdf)] [[Code](https://github.com/jmshen1994/ETypeClus)]
+
+### Text Embedding
+- **(NeurIPS 2019) [JoSE](https://github.com/yumeng5/Spherical-Text-Embedding)**      
+_Spherical Text Embedding_ [[PDF](https://arxiv.org/pdf/1911.01196.pdf)] [[Code](https://github.com/yumeng5/Spherical-Text-Embedding)]
+
+- **(WWW 2020) [CatE](https://github.com/yumeng5/CatE)**      
+_Discriminative Topic Mining via Category-Name Guided Text Embedding_ [[PDF](https://arxiv.org/pdf/1908.07162.pdf)] [[Code](https://github.com/yumeng5/CatE)]
+
+- **(KDD 2020) [JoSH](https://github.com/yumeng5/JoSH)**      
+_Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding_ [[PDF](https://arxiv.org/pdf/2007.09536.pdf)] [[Code](https://github.com/yumeng5/JoSH)]
+
 ### Set Expansion and Synonym Discovery 
 - **(ECML-PKDD 2017) [SetExpan](https://github.com/mickeystroller/SetExpan)**       
 _SetExpan: Corpus-Based Set Expansion via Context Feature Selection and Rank Ensemble_ [[PDF](https://arxiv.org/pdf/1910.08192.pdf)] [[Code](https://github.com/mickeystroller/SetExpan)]
@@ -105,6 +126,9 @@ _Minimally Supervised Categorization of Text with Metadata_ [[PDF](https://arxiv
 - **(EMNLP 2020) [LOTClass](https://github.com/yumeng5/LOTClass)**      
 _Text Classification Using Label Names Only: A Language Model Self-Training Approach_ [[PDF](https://arxiv.org/pdf/2010.07245.pdf)] [[Code](https://github.com/yumeng5/LOTClass)]
 
+- **(EMNLP 2020) [JASen](https://github.com/teapot123/JASen)**      
+_Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding_ [[PDF](https://arxiv.org/pdf/2010.06705.pdf)] [[Code](https://github.com/teapot123/JASen)]
+
 - **(WSDM 2021) [HIMECat](https://github.com/yuzhimanhua/HIMECat)**       
 _Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](https://arxiv.org/pdf/2010.13556.pdf)] [[Code](https://github.com/yuzhimanhua/HIMECat)]
 
@@ -114,11 +138,19 @@ _MATCH: Metadata-Aware Text Classification in A Large Hierarchy_ [[PDF](https://
 - **(WWW 2021) [LTRN](https://github.com/xinyangz/ltrn)**       
 _Minimally Supervised Structure Rich Text Categorization by Learning on Text-Rich Networks_ [[PDF](https://arxiv.org/pdf/2102.11479.pdf)] [[Code](https://github.com/xinyangz/ltrn)]
 
-### Text Embedding
+### Text Summarization and Question Answering
+- **(ACL 2020) [FAR](https://github.com/morningmoni/FAR)**       
+_Facet-Aware Evaluation for Extractive Summarization_ [[PDF](https://arxiv.org/pdf/1908.10383.pdf)] [[Code](https://github.com/morningmoni/FAR)]
 
-### Text Summarization
+- **(EMNLP 2020) [RL-MMR](https://github.com/morningmoni/RL-MMR)**       
+_Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning_ [[PDF](https://arxiv.org/pdf/2010.00117.pdf)] [[Code](https://github.com/morningmoni/RL-MMR)]
 
-### Event Extraction
+- **(ACL 2021) [GAR / RIDER](https://github.com/morningmoni/GAR)**       
+_Generation-Augmented Retrieval for Open-domain Question Answering_ [[PDF](https://arxiv.org/pdf/2009.08553.pdf)] [[Code](https://github.com/morningmoni/GAR)]      
+_RIDER: Reader-Guided Passage Reranking for Open-Domain Question Answering_ [[PDF](https://arxiv.org/pdf/2101.00294.pdf)] [[Code](https://github.com/morningmoni/GAR)]
+
+- **(EMNLP 2021) [EDE](https://github.com/morningmoni/EDE)**       
+_Extract, Denoise and Enforce: Evaluating and Improving Concept Preservation for Text-to-Text Generation_ [[PDF](https://arxiv.org/pdf/2104.08724.pdf)] [[Code](https://github.com/morningmoni/EDE)]
 
 ## Graph Mining 
 ### Heterogeneous Information Network (HIN) Mining 
