@@ -3,8 +3,8 @@
 - **[Phrase Mining](phrase.md)**
 - **[Named Entity Recognition (NER)](entity.md)**
 - **[Relation Extraction (RE) and Open Information Extraction (OpenIE)](relation.md)**
-- **[Event Extraction](event.md)
-- **[Text Embedding](embedding.md)
+- **[Event Extraction](event.md)**
+- **[Text Embedding](embedding.md)**
 - **[Set Expansion and Synonym Discovery](setexpan.md)**
 - **[Taxonomy Expansion and Taxonomy Construction](taxonomy.md)**
 - **[Text Classification](classification.md)**
