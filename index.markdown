@@ -9,9 +9,11 @@
 - **[Taxonomy Expansion and Taxonomy Construction](taxonomy.md)**
 - **[Text Classification](classification.md)**
 - **[Text Summarization and Question Answering](summarization.md)**
+
 ### Graph Mining
 - **[Heterogeneous Information Network (HIN) Embedding](hinemb.md)**
 - **[Graph Neural Networks](gnn.md)**
+
 ### Optimization
 - **[Optimization](optimization.md)**
 
