@@ -9,6 +9,11 @@
 - **[Taxonomy Expansion and Taxonomy Construction](taxonomy.md)**
 - **[Text Classification](classification.md)**
 - **[Text Summarization and Question Answering](summarization.md)**
+### Graph Mining
+- **[Heterogeneous Information Network (HIN) Embedding](hinemb.md)**
+- **[Graph Neural Networks](gnn.md)**
+### Optimization
+- **[Optimization](optimization.md)**
 
 ## Text Mining
 ### Phrase Mining 
@@ -172,15 +177,29 @@ _Unsupervised Attributed Multiplex Network Embedding_ [[PDF](https://arxiv.org/p
 - **(TKDE 2020) [HNE](https://github.com/yangji9181/HNE)**       
 _Heterogeneous Network Representation Learning: A Unified Framework with Survey and Benchmark_ [[PDF](https://arxiv.org/pdf/2004.00216.pdf)] [[Code](https://github.com/yangji9181/HNE)]
 
-- **(Other models) [ESim](https://github.com/shangjingbo1226/ESim)**
+- **(Other models) [ESim](https://github.com/shangjingbo1226/ESim)**       
+_Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks_ [[PDF](https://arxiv.org/pdf/1610.09769.pdf)] [[Code](https://github.com/shangjingbo1226/ESim)]
 
 ### Graph Neural Networks
+- **(WWW 2020) [CG-MuAlign](https://github.com/GentleZhu/CG-MuAlign)**       
+_Collective Multi-type Entity Alignment Between Knowledge Graphs_ [[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380289)] [[Code](https://github.com/GentleZhu/CG-MuAlign)]
 
-## Deep Learning and Optimization
-### Language Model Pre-Training
+- **(IJCAI 2020) [ALaGCN](https://github.com/raspberryice/ala-gcn)**       
+_AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks_ [[PDF](https://www.ijcai.org/proceedings/2020/181)] [[Code](https://github.com/raspberryice/ala-gcn)]
 
+- **(NeurIPS 2021) [EGI](https://github.com/GentleZhu/EGI)**       
+_Transfer Learning of Graph Neural Networks with Ego-graph Information Maximization_ [[PDF](https://arxiv.org/pdf/2009.05204.pdf)] [[Code](https://github.com/GentleZhu/EGI)]
+
+- **(NeurIPS 2021) [Shift-Robust GNNs](https://github.com/GentleZhu/Shift-Robust-GNNs)**       
+_Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data_ [[PDF](https://arxiv.org/pdf/2108.01099.pdf)] [[Code](https://github.com/GentleZhu/Shift-Robust-GNNs)]
+
+## Optimization
 ### Optimization
-- [RAdam](https://github.com/LiyuanLucasLiu/RAdam)
+- **(ICLR 2020) [RAdam](https://github.com/LiyuanLucasLiu/RAdam)**       
+_On the Variance of the Adaptive Learning Rate and Beyond_ [[PDF](https://arxiv.org/pdf/1908.03265.pdf)] [[Code](https://github.com/LiyuanLucasLiu/RAdam)]
+
+- **(EMNLP 2020) [Admin](https://github.com/LiyuanLucasLiu/Transformer-Clinic)**       
+_Understanding the Difficulty of Training Transformers_ [[PDF](https://arxiv.org/pdf/2004.08249.pdf)] [[Code](https://github.com/LiyuanLucasLiu/Transformer-Clinic)]
 
 - **(Other models) [TorchScope](https://github.com/LiyuanLucasLiu/Torch-Scope)**
 
